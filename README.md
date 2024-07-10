@@ -19,8 +19,8 @@ I excel in programming using Python and C#, and I'm currently trying to learn .L
 
 ## 🎮 Current Finished Projects:
 
-- **Human Ltd.**: A First-person Escape Room game made in Unity, where the goal is to escape an underground office by solving various puzzles within.
-- **Demon Dungeons**: A Third-person Hack n' Slash made in Unity, where we must delve through procedurally generated dungeons and slay hordes of demons in order to reach the end and defeat their bosses.
+- [**Human Ltd.**](https://github.com/Mikapuccino/HumanLtd): A First-person Escape Room game made in Unity, where the goal is to escape an underground office by solving various puzzles within.
+- [**Demon Dungeons**](https://github.com/joaofrazaocorreia/Demon-Dungeons): A Third-person Hack n' Slash made in Unity, where we must delve through procedurally generated dungeons and slay hordes of demons in order to reach the end and defeat their bosses.
 
 ## 🌱 Learning & Development:
 
