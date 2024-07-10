@@ -40,8 +40,6 @@ Feel free to reach out to me for any collaboration, discussion, business, or jus
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofrazaocorreia&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofrazaocorreia&layout=compact&theme=dark)
-
 ---
 
 *“Videogames have brought me immesurable amounts of happiness and excitement, and my goal is to provide that same joy to the next generation of players.”*
