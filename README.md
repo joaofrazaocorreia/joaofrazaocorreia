@@ -17,6 +17,12 @@ I excel in programming using Python and C#, and I'm currently trying to learn .L
   - Git and GitHub
   - Visual Studio Code
 
+- **Extra Dev-Skills that I've learnt and worked with:**
+  - 3D Animation
+  - 3D Modeling (using Maya)
+  - Graphic Design / Image Editing
+  - Video Editing
+
 ## 🎮 Current Finished Projects:
 
 - [**Human Ltd.**](https://github.com/Mikapuccino/HumanLtd): A First-person Escape Room game made in Unity, where the goal is to escape an underground office by solving various puzzles within.
